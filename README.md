@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github.com/fqgiord/ToDo_List/blob/main/react-tailwind-todo/model.png" width="1000" />
+    <img src="https://github.com/fqgiord/ToDo_List/blob/main/model.png" width="1000" />
+    
 
 </p>
 
