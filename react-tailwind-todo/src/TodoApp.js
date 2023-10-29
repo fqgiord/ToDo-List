@@ -26,7 +26,7 @@ function TodoApp() {
         className="border p-2 rounded"
       />
 
-      <button onClick={handleAddTask} className="ml-2 bg-blue-500 text-black p-2 rounded">
+      <button onClick={handleAddTask} className="ml-10 bg-blue-500 text-black p-2 rounded">
         Adicionar
       </button>
 
